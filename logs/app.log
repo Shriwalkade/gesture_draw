@@ -1,0 +1,461 @@
+2026-07-12 15:25:58 | INFO     | gesture_draw | Logging initialized. No frame or biometric data is ever logged.
+2026-07-12 15:25:58 | INFO     | gesture_draw | Starting Hand Gesture Drawing application (offline, no network access).
+2026-07-12 15:25:58 | INFO     | gesture_draw | Hand-tracking model not found locally; downloading it once from https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task
+2026-07-12 15:25:59 | INFO     | gesture_draw | Model downloaded (7636 KB) to models\hand_landmarker.task. No further downloads will happen.
+2026-07-12 15:26:11 | ERROR    | gesture_draw | Fatal: Could not open camera index 0 after 5 attempts.
+2026-07-12 15:26:11 | INFO     | gesture_draw | Application shut down. Camera released, no frames were persisted.
+2026-07-12 15:26:16 | INFO     | gesture_draw | Logging initialized. No frame or biometric data is ever logged.
+2026-07-12 15:26:16 | INFO     | gesture_draw | Starting Hand Gesture Drawing application (offline, no network access).
+2026-07-12 15:26:22 | ERROR    | gesture_draw | Fatal: Could not open camera index 0 after 5 attempts.
+2026-07-12 15:26:22 | INFO     | gesture_draw | Application shut down. Camera released, no frames were persisted.
+2026-07-12 15:26:34 | INFO     | gesture_draw | Logging initialized. No frame or biometric data is ever logged.
+2026-07-12 15:26:34 | INFO     | gesture_draw | Starting Hand Gesture Drawing application (offline, no network access).
+2026-07-12 15:26:41 | ERROR    | gesture_draw | Fatal: Could not open camera index 0 after 5 attempts.
+2026-07-12 15:26:41 | INFO     | gesture_draw | Application shut down. Camera released, no frames were persisted.
+2026-07-12 15:27:29 | INFO     | gesture_draw | Logging initialized. No frame or biometric data is ever logged.
+2026-07-12 15:27:29 | INFO     | gesture_draw | Starting Hand Gesture Drawing application (offline, no network access).
+2026-07-12 15:27:36 | ERROR    | gesture_draw | Fatal: Could not open camera index 0 after 5 attempts.
+2026-07-12 15:27:36 | INFO     | gesture_draw | Application shut down. Camera released, no frames were persisted.
+2026-07-12 15:27:48 | INFO     | gesture_draw | Logging initialized. No frame or biometric data is ever logged.
+2026-07-12 15:27:48 | INFO     | gesture_draw | Starting Hand Gesture Drawing application (offline, no network access).
+2026-07-12 15:27:55 | ERROR    | gesture_draw | Fatal: Could not open camera index 0 after 5 attempts.
+2026-07-12 15:27:55 | INFO     | gesture_draw | Application shut down. Camera released, no frames were persisted.
+2026-07-12 15:28:04 | INFO     | gesture_draw | Logging initialized. No frame or biometric data is ever logged.
+2026-07-12 15:28:04 | INFO     | gesture_draw | Starting Hand Gesture Drawing application (offline, no network access).
+2026-07-12 15:28:18 | INFO     | gesture_draw | Logging initialized. No frame or biometric data is ever logged.
+2026-07-12 15:28:18 | INFO     | gesture_draw | Starting Hand Gesture Drawing application (offline, no network access).
+2026-07-12 15:28:24 | ERROR    | gesture_draw | Fatal: Could not open camera index 0 after 5 attempts.
+2026-07-12 15:28:24 | INFO     | gesture_draw | Application shut down. Camera released, no frames were persisted.
+2026-07-12 15:32:31 | INFO     | gesture_draw | Logging initialized. No frame or biometric data is ever logged.
+2026-07-12 15:32:31 | INFO     | gesture_draw | Starting Hand Gesture Drawing application (offline, no network access).
+2026-07-12 15:32:38 | ERROR    | gesture_draw | Fatal: Could not open camera index 0 after 5 attempts.
+2026-07-12 15:32:38 | INFO     | gesture_draw | Application shut down. Camera released, no frames were persisted.
+2026-07-12 15:33:25 | INFO     | gesture_draw | Logging initialized. No frame or biometric data is ever logged.
+2026-07-12 15:33:25 | INFO     | gesture_draw | Starting Hand Gesture Drawing application (offline, no network access).
+2026-07-12 15:33:32 | ERROR    | gesture_draw | Fatal: Could not open camera index 0 after 5 attempts.
+2026-07-12 15:33:32 | INFO     | gesture_draw | Application shut down. Camera released, no frames were persisted.
+2026-07-12 15:55:58 | INFO     | gesture_draw | Logging initialized. No frame or biometric data is ever logged.
+2026-07-12 15:55:58 | INFO     | gesture_draw | Starting Hand Gesture Drawing application (offline, no network access).
+2026-07-12 15:56:05 | ERROR    | gesture_draw | Fatal: Could not open camera index 0 after 5 attempts.
+2026-07-12 15:56:05 | INFO     | gesture_draw | Application shut down. Camera released, no frames were persisted.
+2026-07-12 16:00:29 | INFO     | gesture_draw | Logging initialized. No frame or biometric data is ever logged.
+2026-07-12 16:00:29 | INFO     | gesture_draw | Starting Hand Gesture Drawing application (offline, no network access).
+2026-07-12 16:00:37 | ERROR    | gesture_draw | Fatal: Could not open camera index 0 after 5 attempts.
+2026-07-12 16:00:37 | INFO     | gesture_draw | Application shut down. Camera released, no frames were persisted.
+2026-07-12 16:08:21 | INFO     | gesture_draw | Logging initialized. No frame or biometric data is ever logged.
+2026-07-12 16:08:21 | INFO     | gesture_draw | Starting Hand Gesture Drawing application (offline, no network access).
+2026-07-12 16:08:28 | ERROR    | gesture_draw | Fatal: Could not open camera index 0 after 5 attempts.
+2026-07-12 16:08:28 | INFO     | gesture_draw | Application shut down. Camera released, no frames were persisted.
+2026-07-12 16:09:49 | INFO     | gesture_draw | Logging initialized. No frame or biometric data is ever logged.
+2026-07-12 16:09:49 | INFO     | gesture_draw | Starting Hand Gesture Drawing application (offline, no network access).
+2026-07-12 16:09:56 | ERROR    | gesture_draw | Fatal: Could not open camera index 0 after 5 attempts.
+2026-07-12 16:09:56 | INFO     | gesture_draw | Application shut down. Camera released, no frames were persisted.
+2026-07-12 16:10:45 | INFO     | gesture_draw | Logging initialized. No frame or biometric data is ever logged.
+2026-07-12 16:10:45 | INFO     | gesture_draw | Starting Hand Gesture Drawing application (offline, no network access).
+2026-07-12 16:10:52 | ERROR    | gesture_draw | Fatal: Could not open camera index 0 after 5 attempts.
+2026-07-12 16:10:52 | INFO     | gesture_draw | Application shut down. Camera released, no frames were persisted.
+2026-07-12 16:17:07 | INFO     | gesture_draw | Logging initialized. No frame or biometric data is ever logged.
+2026-07-12 16:17:07 | INFO     | gesture_draw | Starting Hand Gesture Drawing application (offline, no network access).
+2026-07-12 16:17:14 | ERROR    | gesture_draw | Fatal: Could not open camera index 0 after 5 attempts.
+2026-07-12 16:17:14 | INFO     | gesture_draw | Application shut down. Camera released, no frames were persisted.
+2026-07-12 16:17:29 | INFO     | gesture_draw | Logging initialized. No frame or biometric data is ever logged.
+2026-07-12 16:17:29 | INFO     | gesture_draw | Starting Hand Gesture Drawing application (offline, no network access).
+2026-07-12 16:17:36 | ERROR    | gesture_draw | Fatal: Could not open camera index 0 after 5 attempts.
+2026-07-12 16:17:36 | INFO     | gesture_draw | Application shut down. Camera released, no frames were persisted.
+2026-07-12 16:32:56 | INFO     | gesture_draw | Logging initialized. No frame or biometric data is ever logged.
+2026-07-12 16:32:56 | INFO     | gesture_draw | Starting Hand Gesture Drawing application (offline, no network access).
+2026-07-12 16:33:03 | ERROR    | gesture_draw | Fatal: Could not open camera index 0 after 5 attempts.
+2026-07-12 16:33:03 | INFO     | gesture_draw | Application shut down. Camera released, no frames were persisted.
+2026-07-12 16:35:36 | INFO     | gesture_draw | Logging initialized. No frame or biometric data is ever logged.
+2026-07-12 16:35:36 | INFO     | gesture_draw | Starting Hand Gesture Drawing application (offline, no network access).
+2026-07-12 16:35:45 | INFO     | gesture_draw | Camera 0 opened on attempt 1.
+2026-07-12 16:35:54 | INFO     | gesture_draw | Gesture mode changed: NONE -> DRAW
+2026-07-12 16:35:55 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 16:35:56 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-12 16:36:00 | INFO     | gesture_draw | Gesture mode changed: DRAW -> ERASE
+2026-07-12 16:36:02 | INFO     | gesture_draw | Gesture mode changed: ERASE -> IDLE
+2026-07-12 16:36:02 | INFO     | gesture_draw | Gesture mode changed: IDLE -> ERASE
+2026-07-12 16:36:05 | INFO     | gesture_draw | Gesture mode changed: ERASE -> IDLE
+2026-07-12 16:36:07 | INFO     | gesture_draw | Gesture mode changed: IDLE -> ERASE
+2026-07-12 16:36:09 | INFO     | gesture_draw | Gesture mode changed: ERASE -> IDLE
+2026-07-12 16:36:11 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-12 16:36:16 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-12 16:36:19 | INFO     | gesture_draw | Gesture mode changed: ERASE -> IDLE
+2026-07-12 16:36:20 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-12 16:36:23 | INFO     | gesture_draw | Gesture mode changed: DRAW -> NONE
+2026-07-12 16:36:27 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-12 16:36:39 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-12 16:36:43 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-12 16:36:44 | INFO     | gesture_draw | Gesture mode changed: ERASE -> DRAW
+2026-07-12 16:36:48 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 16:36:50 | INFO     | gesture_draw | Gesture mode changed: IDLE -> ERASE
+2026-07-12 16:36:54 | INFO     | gesture_draw | Gesture mode changed: ERASE -> DRAW
+2026-07-12 16:36:58 | INFO     | gesture_draw | Gesture mode changed: DRAW -> NONE
+2026-07-12 16:37:12 | INFO     | gesture_draw | Window closed by user.
+2026-07-12 16:37:12 | INFO     | gesture_draw | Camera released.
+2026-07-12 16:37:12 | INFO     | gesture_draw | Application shut down. Camera released, no frames were persisted.
+2026-07-12 16:37:17 | INFO     | gesture_draw | Logging initialized. No frame or biometric data is ever logged.
+2026-07-12 16:37:17 | INFO     | gesture_draw | Starting Hand Gesture Drawing application (offline, no network access).
+2026-07-12 16:37:24 | INFO     | gesture_draw | Camera 0 opened on attempt 1.
+2026-07-12 16:37:38 | INFO     | gesture_draw | Gesture mode changed: NONE -> IDLE
+2026-07-12 16:37:43 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-12 16:37:47 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 16:37:48 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-12 16:37:49 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 16:37:57 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-12 16:37:58 | INFO     | gesture_draw | Gesture mode changed: DRAW -> ERASE
+2026-07-12 16:37:58 | INFO     | gesture_draw | Gesture mode changed: ERASE -> DRAW
+2026-07-12 16:38:01 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 16:38:05 | INFO     | gesture_draw | Gesture mode changed: IDLE -> ERASE
+2026-07-12 16:38:06 | INFO     | gesture_draw | Gesture mode changed: ERASE -> IDLE
+2026-07-12 16:38:11 | INFO     | gesture_draw | Gesture mode changed: IDLE -> ERASE
+2026-07-12 16:38:13 | INFO     | gesture_draw | Gesture mode changed: ERASE -> IDLE
+2026-07-12 16:38:22 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-12 16:39:00 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-12 16:39:13 | INFO     | gesture_draw | Gesture mode changed: ERASE -> IDLE
+2026-07-12 16:39:15 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-12 16:39:22 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 16:39:22 | INFO     | gesture_draw | Gesture mode changed: IDLE -> ERASE
+2026-07-12 16:39:23 | INFO     | gesture_draw | Gesture mode changed: ERASE -> DRAW
+2026-07-12 16:39:26 | INFO     | gesture_draw | Gesture mode changed: DRAW -> ERASE
+2026-07-12 16:39:27 | INFO     | gesture_draw | Gesture mode changed: ERASE -> IDLE
+2026-07-12 16:39:28 | INFO     | gesture_draw | Gesture mode changed: IDLE -> ERASE
+2026-07-12 16:39:29 | INFO     | gesture_draw | Gesture mode changed: ERASE -> IDLE
+2026-07-12 16:39:29 | INFO     | gesture_draw | Gesture mode changed: IDLE -> ERASE
+2026-07-12 16:39:31 | INFO     | gesture_draw | Gesture mode changed: ERASE -> IDLE
+2026-07-12 16:39:32 | INFO     | gesture_draw | Gesture mode changed: IDLE -> ERASE
+2026-07-12 16:39:40 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-12 16:39:44 | INFO     | gesture_draw | Gesture mode changed: NONE -> DRAW
+2026-07-12 16:39:52 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 16:39:53 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-12 16:39:55 | INFO     | gesture_draw | Gesture mode changed: DRAW -> NONE
+2026-07-12 16:40:04 | INFO     | gesture_draw | Gesture mode changed: NONE -> DRAW
+2026-07-12 16:40:05 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 16:40:06 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-12 16:40:07 | INFO     | gesture_draw | Gesture mode changed: DRAW -> NONE
+2026-07-12 16:40:08 | INFO     | gesture_draw | Gesture mode changed: NONE -> IDLE
+2026-07-12 16:40:08 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-12 16:40:09 | INFO     | gesture_draw | Gesture mode changed: DRAW -> NONE
+2026-07-12 16:40:11 | INFO     | gesture_draw | Gesture mode changed: NONE -> DRAW
+2026-07-12 16:40:12 | INFO     | gesture_draw | Gesture mode changed: DRAW -> ERASE
+2026-07-12 16:40:18 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-12 16:43:26 | INFO     | gesture_draw | Gesture mode changed: NONE -> DRAW
+2026-07-12 16:43:28 | INFO     | gesture_draw | Gesture mode changed: DRAW -> ERASE
+2026-07-12 16:43:29 | INFO     | gesture_draw | Gesture mode changed: ERASE -> IDLE
+2026-07-12 16:43:30 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-12 16:43:35 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 16:43:37 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-12 16:43:42 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 16:43:46 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-12 16:43:49 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 16:43:50 | INFO     | gesture_draw | Gesture mode changed: IDLE -> ERASE
+2026-07-12 16:43:53 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-12 16:43:54 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-12 16:43:56 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-12 16:43:58 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-12 16:43:58 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-12 16:44:39 | INFO     | gesture_draw | Gesture mode changed: NONE -> DRAW
+2026-07-12 16:44:44 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 16:44:48 | INFO     | gesture_draw | Gesture mode changed: IDLE -> ERASE
+2026-07-12 16:44:52 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-12 16:44:55 | INFO     | gesture_draw | Gesture mode changed: NONE -> DRAW
+2026-07-12 16:44:57 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 16:44:58 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-12 16:45:00 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 16:45:01 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-12 16:45:04 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 16:45:05 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-12 16:45:06 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 16:45:08 | INFO     | gesture_draw | Gesture mode changed: IDLE -> ERASE
+2026-07-12 16:45:15 | INFO     | gesture_draw | Gesture mode changed: ERASE -> IDLE
+2026-07-12 16:45:16 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-12 16:45:21 | INFO     | gesture_draw | Window closed by user.
+2026-07-12 16:45:22 | INFO     | gesture_draw | Camera released.
+2026-07-12 16:45:22 | INFO     | gesture_draw | Application shut down. Camera released, no frames were persisted.
+2026-07-12 16:48:52 | INFO     | gesture_draw | Logging initialized. No frame or biometric data is ever logged.
+2026-07-12 16:48:52 | INFO     | gesture_draw | Starting Hand Gesture Drawing application (offline, no network access).
+2026-07-12 16:48:58 | INFO     | gesture_draw | Camera 0 opened on attempt 1.
+2026-07-12 16:49:01 | INFO     | gesture_draw | Gesture mode changed: NONE -> IDLE
+2026-07-12 16:49:03 | INFO     | gesture_draw | Gesture mode changed: IDLE -> ERASE
+2026-07-12 16:49:05 | INFO     | gesture_draw | Gesture mode changed: ERASE -> IDLE
+2026-07-12 16:49:10 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-12 16:49:12 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 16:49:17 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-12 16:49:24 | INFO     | gesture_draw | Gesture mode changed: DRAW -> NONE
+2026-07-12 16:49:25 | INFO     | gesture_draw | Gesture mode changed: NONE -> DRAW
+2026-07-12 16:49:27 | INFO     | gesture_draw | Gesture mode changed: DRAW -> ERASE
+2026-07-12 16:49:39 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-12 16:49:41 | INFO     | gesture_draw | Gesture mode changed: NONE -> DRAW
+2026-07-12 16:49:45 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 16:49:46 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-12 16:49:48 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 16:49:48 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-12 16:49:50 | INFO     | gesture_draw | Gesture mode changed: NONE -> DRAW
+2026-07-12 16:49:54 | INFO     | gesture_draw | Gesture mode changed: DRAW -> NONE
+2026-07-12 16:49:55 | INFO     | gesture_draw | Gesture mode changed: NONE -> DRAW
+2026-07-12 16:49:55 | INFO     | gesture_draw | Gesture mode changed: DRAW -> NONE
+2026-07-12 16:50:03 | INFO     | gesture_draw | Window closed by user.
+2026-07-12 16:50:04 | INFO     | gesture_draw | Camera released.
+2026-07-12 16:50:04 | INFO     | gesture_draw | Application shut down. Camera released, no frames were persisted.
+2026-07-12 19:04:24 | INFO     | gesture_draw | Logging initialized. No frame or biometric data is ever logged.
+2026-07-12 19:04:24 | INFO     | gesture_draw | Starting Hand Gesture Drawing application (offline, no network access).
+2026-07-12 19:04:31 | INFO     | gesture_draw | Camera 0 opened on attempt 1.
+2026-07-12 19:04:34 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-12 19:04:35 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-12 19:04:36 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-12 19:04:37 | INFO     | gesture_draw | Gesture mode changed: ERASE -> DRAW
+2026-07-12 19:04:38 | INFO     | gesture_draw | Gesture mode changed: DRAW -> NONE
+2026-07-12 19:04:38 | INFO     | gesture_draw | Gesture mode changed: NONE -> DRAW
+2026-07-12 19:04:39 | INFO     | gesture_draw | Gesture mode changed: DRAW -> NONE
+2026-07-12 19:04:43 | INFO     | gesture_draw | Gesture mode changed: NONE -> IDLE
+2026-07-12 19:04:53 | INFO     | gesture_draw | Gesture mode changed: IDLE -> ERASE
+2026-07-12 19:04:59 | INFO     | gesture_draw | Gesture mode changed: ERASE -> DRAW
+2026-07-12 19:05:00 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 19:05:01 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-12 19:05:02 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 19:05:06 | INFO     | gesture_draw | Gesture mode changed: IDLE -> ERASE
+2026-07-12 19:05:07 | INFO     | gesture_draw | Gesture mode changed: ERASE -> IDLE
+2026-07-12 19:05:10 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-12 19:05:12 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 19:05:21 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-12 19:05:34 | INFO     | gesture_draw | Canvas cleared by user.
+2026-07-12 19:05:34 | INFO     | gesture_draw | Canvas cleared by user.
+2026-07-12 19:05:35 | INFO     | gesture_draw | Canvas cleared by user.
+2026-07-12 19:08:50 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-12 19:08:51 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-12 19:09:51 | INFO     | gesture_draw | Window closed by user.
+2026-07-12 19:09:51 | INFO     | gesture_draw | Camera released.
+2026-07-12 19:09:51 | INFO     | gesture_draw | Application shut down. Camera released, no frames were persisted.
+2026-07-12 19:09:59 | INFO     | gesture_draw | Logging initialized. No frame or biometric data is ever logged.
+2026-07-12 19:09:59 | INFO     | gesture_draw | Starting Hand Gesture Drawing application (offline, no network access).
+2026-07-12 19:10:06 | INFO     | gesture_draw | Camera 0 opened on attempt 1.
+2026-07-12 19:10:07 | INFO     | gesture_draw | Gesture mode changed: NONE -> IDLE
+2026-07-12 19:10:08 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-12 19:10:14 | INFO     | gesture_draw | Gesture mode changed: NONE -> DRAW
+2026-07-12 19:10:17 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 19:10:24 | INFO     | gesture_draw | Gesture mode changed: IDLE -> ERASE
+2026-07-12 19:10:28 | INFO     | gesture_draw | Gesture mode changed: ERASE -> DRAW
+2026-07-12 19:10:33 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 19:10:35 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-12 19:10:36 | INFO     | gesture_draw | Gesture mode changed: NONE -> IDLE
+2026-07-12 19:10:46 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-12 19:10:50 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-12 19:10:52 | INFO     | gesture_draw | Gesture mode changed: ERASE -> DRAW
+2026-07-12 19:10:53 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 19:10:54 | INFO     | gesture_draw | Gesture mode changed: IDLE -> ERASE
+2026-07-12 19:10:56 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-12 19:10:57 | INFO     | gesture_draw | Gesture mode changed: NONE -> DRAW
+2026-07-12 19:10:57 | INFO     | gesture_draw | Gesture mode changed: DRAW -> NONE
+2026-07-12 19:10:58 | INFO     | gesture_draw | Gesture mode changed: NONE -> DRAW
+2026-07-12 19:11:01 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 19:11:02 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-12 19:11:03 | INFO     | gesture_draw | Gesture mode changed: DRAW -> NONE
+2026-07-12 19:11:18 | INFO     | gesture_draw | Gesture mode changed: NONE -> IDLE
+2026-07-12 19:11:36 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-12 19:11:37 | INFO     | gesture_draw | Gesture mode changed: NONE -> IDLE
+2026-07-12 19:11:47 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-12 19:11:47 | INFO     | gesture_draw | Gesture mode changed: DRAW -> NONE
+2026-07-12 19:11:49 | INFO     | gesture_draw | Gesture mode changed: NONE -> IDLE
+2026-07-12 19:11:54 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-12 19:11:54 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-12 19:11:55 | INFO     | gesture_draw | Gesture mode changed: ERASE -> IDLE
+2026-07-12 19:11:56 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-12 19:11:56 | INFO     | gesture_draw | Gesture mode changed: NONE -> DRAW
+2026-07-12 19:11:57 | INFO     | gesture_draw | Gesture mode changed: DRAW -> ERASE
+2026-07-12 19:12:01 | INFO     | gesture_draw | Gesture mode changed: ERASE -> IDLE
+2026-07-12 19:12:04 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-12 19:12:04 | INFO     | gesture_draw | Gesture mode changed: NONE -> IDLE
+2026-07-12 19:12:06 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-12 19:12:08 | INFO     | gesture_draw | Gesture mode changed: NONE -> IDLE
+2026-07-12 19:12:10 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-12 19:12:16 | INFO     | gesture_draw | Window closed by user.
+2026-07-12 19:12:17 | INFO     | gesture_draw | Camera released.
+2026-07-12 19:12:17 | INFO     | gesture_draw | Application shut down. Camera released, no frames were persisted.
+2026-07-12 19:17:39 | INFO     | gesture_draw | Logging initialized. No frame or biometric data is ever logged.
+2026-07-12 19:17:39 | INFO     | gesture_draw | Starting Hand Gesture Drawing application (offline, no network access).
+2026-07-12 19:17:48 | INFO     | gesture_draw | Camera 0 opened on attempt 1.
+2026-07-12 19:17:57 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-12 19:17:58 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-12 19:18:01 | INFO     | gesture_draw | Gesture mode changed: NONE -> IDLE
+2026-07-12 19:18:04 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-12 19:18:27 | INFO     | gesture_draw | Gesture mode changed: NONE -> DRAW
+2026-07-12 19:18:30 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 19:18:31 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-12 19:18:32 | INFO     | gesture_draw | Gesture mode changed: NONE -> IDLE
+2026-07-12 19:18:33 | INFO     | gesture_draw | Gesture mode changed: IDLE -> ERASE
+2026-07-12 19:18:34 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-12 19:18:35 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-12 19:18:39 | INFO     | gesture_draw | Gesture mode changed: ERASE -> IDLE
+2026-07-12 19:18:40 | INFO     | gesture_draw | Gesture mode changed: IDLE -> ERASE
+2026-07-12 19:18:41 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-12 19:18:45 | INFO     | gesture_draw | Gesture mode changed: NONE -> IDLE
+2026-07-12 19:18:47 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-12 19:19:03 | INFO     | gesture_draw | Gesture mode changed: NONE -> IDLE
+2026-07-12 19:19:04 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-12 19:19:05 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 19:19:09 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-12 19:19:15 | INFO     | gesture_draw | Gesture mode changed: NONE -> IDLE
+2026-07-12 19:19:26 | INFO     | gesture_draw | Gesture mode changed: IDLE -> ERASE
+2026-07-12 19:19:33 | INFO     | gesture_draw | Gesture mode changed: ERASE -> IDLE
+2026-07-12 19:19:34 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-12 19:19:35 | INFO     | gesture_draw | Gesture mode changed: NONE -> IDLE
+2026-07-12 19:19:42 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-12 19:19:43 | INFO     | gesture_draw | Gesture mode changed: NONE -> IDLE
+2026-07-12 19:19:48 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-12 19:19:48 | INFO     | gesture_draw | Canvas cleared by user.
+2026-07-12 19:19:59 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-12 19:20:00 | INFO     | gesture_draw | Gesture mode changed: ERASE -> DRAW
+2026-07-12 19:20:03 | INFO     | gesture_draw | Gesture mode changed: DRAW -> NONE
+2026-07-12 19:20:25 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-12 19:20:26 | INFO     | gesture_draw | Gesture mode changed: ERASE -> IDLE
+2026-07-12 19:20:27 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-12 19:20:32 | INFO     | gesture_draw | Gesture mode changed: NONE -> IDLE
+2026-07-12 19:20:35 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-12 19:20:35 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-12 19:20:37 | INFO     | gesture_draw | Gesture mode changed: ERASE -> DRAW
+2026-07-12 19:20:43 | INFO     | gesture_draw | Gesture mode changed: DRAW -> NONE
+2026-07-12 19:20:47 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-12 19:20:48 | INFO     | gesture_draw | Gesture mode changed: ERASE -> IDLE
+2026-07-12 19:20:49 | INFO     | gesture_draw | Gesture mode changed: IDLE -> ERASE
+2026-07-12 19:20:55 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-12 19:20:57 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-12 19:20:58 | INFO     | gesture_draw | Gesture mode changed: ERASE -> IDLE
+2026-07-12 19:21:02 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-12 19:21:06 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 19:21:07 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-12 19:21:11 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 19:21:13 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-12 19:21:18 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 19:21:19 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-12 19:21:22 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-12 19:21:33 | INFO     | gesture_draw | Gesture mode changed: IDLE -> ERASE
+2026-07-12 19:21:34 | INFO     | gesture_draw | Gesture mode changed: ERASE -> IDLE
+2026-07-12 19:21:38 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-12 19:21:40 | INFO     | gesture_draw | Gesture mode changed: NONE -> IDLE
+2026-07-12 19:21:42 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-12 19:21:43 | INFO     | gesture_draw | Gesture mode changed: NONE -> IDLE
+2026-07-12 19:21:46 | INFO     | gesture_draw | Gesture mode changed: IDLE -> ERASE
+2026-07-12 19:21:50 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-12 19:21:50 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-12 19:21:52 | INFO     | gesture_draw | Gesture mode changed: ERASE -> IDLE
+2026-07-12 19:21:52 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-12 19:21:53 | INFO     | gesture_draw | Gesture mode changed: DRAW -> NONE
+2026-07-12 19:22:22 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-12 19:22:24 | INFO     | gesture_draw | Gesture mode changed: ERASE -> DRAW
+2026-07-12 19:22:24 | INFO     | gesture_draw | Gesture mode changed: DRAW -> NONE
+2026-07-12 19:22:25 | INFO     | gesture_draw | Gesture mode changed: NONE -> IDLE
+2026-07-12 19:22:26 | INFO     | gesture_draw | Gesture mode changed: IDLE -> ERASE
+2026-07-12 19:22:27 | INFO     | gesture_draw | Gesture mode changed: ERASE -> IDLE
+2026-07-12 19:22:28 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-12 19:22:29 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-12 19:22:34 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-12 19:22:35 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-12 19:22:36 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-12 19:22:40 | INFO     | gesture_draw | Window closed by user.
+2026-07-12 19:22:41 | INFO     | gesture_draw | Camera released.
+2026-07-12 19:22:41 | INFO     | gesture_draw | Application shut down. Camera released, no frames were persisted.
+2026-07-13 00:03:03 | INFO     | gesture_draw | Logging initialized. No frame or biometric data is ever logged.
+2026-07-13 00:03:03 | INFO     | gesture_draw | Starting Hand Gesture Drawing application (offline, no network access).
+2026-07-13 00:03:13 | INFO     | gesture_draw | Camera 0 opened on attempt 1.
+2026-07-13 00:03:20 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-13 00:03:21 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-13 00:03:27 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-13 00:03:29 | INFO     | gesture_draw | Gesture mode changed: ERASE -> DRAW
+2026-07-13 00:03:33 | INFO     | gesture_draw | Gesture mode changed: DRAW -> NONE
+2026-07-13 00:03:34 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-13 00:03:47 | INFO     | gesture_draw | Gesture mode changed: ERASE -> IDLE
+2026-07-13 00:03:54 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-13 00:03:59 | INFO     | gesture_draw | Gesture mode changed: NONE -> DRAW
+2026-07-13 00:04:05 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-13 00:04:05 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-13 00:04:06 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-13 00:04:07 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-13 00:04:08 | INFO     | gesture_draw | Gesture mode changed: DRAW -> NONE
+2026-07-13 00:04:09 | INFO     | gesture_draw | Gesture mode changed: NONE -> DRAW
+2026-07-13 00:04:17 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-13 00:04:19 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-13 00:04:20 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-13 00:04:21 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-13 00:04:44 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-13 00:04:50 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-13 00:04:51 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-13 00:04:52 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-13 00:04:52 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-13 00:04:57 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-13 00:04:58 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-13 00:04:58 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-13 00:05:00 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-13 00:05:01 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-13 00:05:02 | INFO     | gesture_draw | Gesture mode changed: NONE -> DRAW
+2026-07-13 00:05:04 | INFO     | gesture_draw | Gesture mode changed: DRAW -> NONE
+2026-07-13 00:05:05 | INFO     | gesture_draw | Gesture mode changed: NONE -> DRAW
+2026-07-13 00:05:08 | INFO     | gesture_draw | Gesture mode changed: DRAW -> NONE
+2026-07-13 00:05:09 | INFO     | gesture_draw | Gesture mode changed: NONE -> DRAW
+2026-07-13 00:05:13 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-13 00:05:23 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-13 00:05:24 | INFO     | gesture_draw | Gesture mode changed: NONE -> IDLE
+2026-07-13 00:05:27 | INFO     | gesture_draw | Gesture mode changed: IDLE -> ERASE
+2026-07-13 00:05:28 | INFO     | gesture_draw | Gesture mode changed: ERASE -> IDLE
+2026-07-13 00:05:29 | INFO     | gesture_draw | Gesture mode changed: IDLE -> ERASE
+2026-07-13 00:05:30 | INFO     | gesture_draw | Gesture mode changed: ERASE -> IDLE
+2026-07-13 00:05:32 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-13 00:05:33 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-13 00:05:35 | INFO     | gesture_draw | Gesture mode changed: IDLE -> ERASE
+2026-07-13 00:05:38 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-13 00:05:40 | INFO     | gesture_draw | Window closed by user.
+2026-07-13 00:05:40 | INFO     | gesture_draw | Camera released.
+2026-07-13 00:05:40 | INFO     | gesture_draw | Application shut down. Camera released, no frames were persisted.
+2026-07-13 00:09:57 | INFO     | gesture_draw | Logging initialized. No frame or biometric data is ever logged.
+2026-07-13 00:09:57 | INFO     | gesture_draw | Starting Hand Gesture Drawing application (offline, no network access).
+2026-07-13 00:10:06 | INFO     | gesture_draw | Camera 0 opened on attempt 1.
+2026-07-13 00:10:10 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-13 00:10:13 | INFO     | gesture_draw | Gesture mode changed: ERASE -> DRAW
+2026-07-13 00:10:17 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-13 00:10:22 | INFO     | gesture_draw | Gesture mode changed: IDLE -> NONE
+2026-07-13 00:10:24 | INFO     | gesture_draw | Gesture mode changed: NONE -> IDLE
+2026-07-13 00:10:24 | INFO     | gesture_draw | Gesture mode changed: IDLE -> ERASE
+2026-07-13 00:10:25 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-13 00:10:29 | INFO     | gesture_draw | Gesture mode changed: NONE -> DRAW
+2026-07-13 00:10:30 | INFO     | gesture_draw | Gesture mode changed: DRAW -> ERASE
+2026-07-13 00:10:31 | INFO     | gesture_draw | Gesture mode changed: ERASE -> DRAW
+2026-07-13 00:10:32 | INFO     | gesture_draw | Gesture mode changed: DRAW -> NONE
+2026-07-13 00:10:34 | INFO     | gesture_draw | Gesture mode changed: NONE -> DRAW
+2026-07-13 00:10:38 | INFO     | gesture_draw | Gesture mode changed: DRAW -> NONE
+2026-07-13 00:10:39 | INFO     | gesture_draw | Gesture mode changed: NONE -> DRAW
+2026-07-13 00:10:40 | INFO     | gesture_draw | Gesture mode changed: DRAW -> NONE
+2026-07-13 00:10:43 | INFO     | gesture_draw | Window closed by user.
+2026-07-13 00:10:43 | INFO     | gesture_draw | Camera released.
+2026-07-13 00:10:44 | INFO     | gesture_draw | Application shut down. Camera released, no frames were persisted.
+2026-07-16 00:19:47 | INFO     | gesture_draw | Logging initialized. No frame or biometric data is ever logged.
+2026-07-16 00:19:47 | INFO     | gesture_draw | Starting Hand Gesture Drawing application (offline, no network access).
+2026-07-16 00:19:59 | INFO     | gesture_draw | Camera 0 opened on attempt 1.
+2026-07-16 00:20:01 | INFO     | gesture_draw | Gesture mode changed: NONE -> IDLE
+2026-07-16 00:20:02 | INFO     | gesture_draw | Gesture mode changed: IDLE -> ERASE
+2026-07-16 00:20:04 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-16 00:20:06 | INFO     | gesture_draw | Gesture mode changed: NONE -> DRAW
+2026-07-16 00:20:10 | INFO     | gesture_draw | Gesture mode changed: DRAW -> IDLE
+2026-07-16 00:20:11 | INFO     | gesture_draw | Gesture mode changed: IDLE -> DRAW
+2026-07-16 00:20:12 | INFO     | gesture_draw | Gesture mode changed: DRAW -> NONE
+2026-07-16 00:20:14 | INFO     | gesture_draw | Gesture mode changed: NONE -> DRAW
+2026-07-16 00:20:20 | INFO     | gesture_draw | Gesture mode changed: DRAW -> NONE
+2026-07-16 00:20:21 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-16 00:20:35 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-16 00:20:42 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-16 00:20:43 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-16 00:20:53 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-16 00:20:58 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-16 00:21:01 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-16 00:21:05 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-16 00:21:07 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-16 00:21:07 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-16 00:21:16 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-16 00:21:17 | INFO     | gesture_draw | Gesture mode changed: ERASE -> DRAW
+2026-07-16 00:21:23 | INFO     | gesture_draw | Gesture mode changed: DRAW -> ERASE
+2026-07-16 00:21:28 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-16 00:21:39 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-16 00:21:40 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-16 00:21:42 | INFO     | gesture_draw | Gesture mode changed: NONE -> ERASE
+2026-07-16 00:21:43 | INFO     | gesture_draw | Gesture mode changed: ERASE -> NONE
+2026-07-16 00:21:45 | INFO     | gesture_draw | Window closed by user.
+2026-07-16 00:21:45 | INFO     | gesture_draw | Camera released.
+2026-07-16 00:21:45 | INFO     | gesture_draw | Application shut down. Camera released, no frames were persisted.

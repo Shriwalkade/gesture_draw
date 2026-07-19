@@ -1,0 +1,9 @@
+# Verified against PyPI as of April 2026 (mediapipe 0.10.35).
+# mediapipe currently ships wheels for Python 3.9-3.12 ONLY.
+# Python 3.13 is NOT supported (build fails: Bazel/pybind11 ABI break,
+# see https://github.com/google-ai-edge/mediapipe/issues/6159).
+# If you're on 3.13+, install Python 3.12 in a separate venv for this app.
+
+opencv-python>=4.9,<5.0
+mediapipe>=0.10.14,<0.11
+numpy>=1.24,<2.0

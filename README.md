@@ -9,7 +9,7 @@ no biometric persistence.
 | Gesture | Fingers | Effect |
 |---|---|---|
 | **Draw** | Index up, middle/ring/pinky folded | Continuous smoothed stroke follows fingertip |
-| **Erase** | All five fingers extended (open palm) | Red translucent circle erases inside it |
+| **Erase** | Index + middle extended, ring/pinky folded (`ERASE_GESTURE = "OPEN_PALM"` in config.py restores the old open-palm mapping) | Red translucent circle erases inside it |
 | **Idle** | Anything else | Drawing/erasing disabled |
 
 A gesture must hold steady for **300 ms** before it activates, so brief
@@ -147,3 +147,9 @@ assumed from memory.
 - The 300 ms stability window is a fixed constant, not adaptive. If it
   feels laggy on your hardware, lower `GESTURE_STABLE_MS` in `config.py` —
   you'll trade some flicker-resistance for responsiveness.
+
+## PLM additions (owner lock, shopfloor prototype)
+
+`main.py` is now gated by a single-owner lock (`REQUIRE_LOCK_FOR_DRAWING` in config.py):
+hold index+middle+ring up (pinky folded) for ~1.5 s to unlock; only that hand controls the
+app. Press `X` to lock. See `README_PLM.md` for everything else, including what is NOT done.

@@ -4,7 +4,7 @@ gesture_detector.py
 Turns raw hand landmarks into a stable, high-level gesture:
 
     DRAW  -> index extended, middle/ring/pinky folded
-    ERASE -> all five fingers extended (open palm)
+    ERASE -> index+middle extended (config.ERASE_GESTURE; open palm optional)
     IDLE  -> anything else (including no hand / low confidence)
 
 Design goals (see project brief):
@@ -120,8 +120,11 @@ def classify_raw_gesture(fingers: FingerState) -> Gesture:
     """Single-frame classification from finger states. No temporal logic here."""
     if fingers.index and not fingers.middle and not fingers.ring and not fingers.pinky:
         return Gesture.DRAW
-    if fingers.index and fingers.middle and fingers.ring and fingers.pinky:
-        return Gesture.ERASE
+    if config.ERASE_GESTURE == "OPEN_PALM":
+        if fingers.index and fingers.middle and fingers.ring and fingers.pinky:
+            return Gesture.ERASE
+    elif fingers.index and fingers.middle and not fingers.ring and not fingers.pinky:
+        return Gesture.ERASE  # TWO_FINGERS (default): not a resting pose
     return Gesture.IDLE
 
 

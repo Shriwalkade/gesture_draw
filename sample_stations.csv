@@ -1,0 +1,7 @@
+station_id,name,x_m,y_m,w_m,h_m,status,work_order,part_no,rev_running,rev_released,bom_items,wip
+CNC-01,CNC Mill 1,4,3,3,2,RUNNING,WO-10451,BRKT-2231,C,C,4,12
+CNC-02,CNC Mill 2,4,8,3,2,RUNNING,WO-10452,BRKT-2231,B,C,4,7
+ASM-A,Assembly A,11,3,4,2.5,RUNNING,WO-10460,GBOX-0078,D,D,37,5
+WLD-01,Weld Cell,11,8.5,3,2.5,FAULT,WO-10463,FRAME-5510,A,B,18,3
+QC-01,Quality Gate,18,3,2.5,2,IDLE,-,-,-,-,0,0
+PKG-01,Packaging,18,8.5,3,2,RUNNING,WO-10470,GBOX-0078,D,D,2,21

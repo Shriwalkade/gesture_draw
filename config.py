@@ -161,3 +161,48 @@ ERROR_COLOR = (0, 0, 255)
 
 APP_NAME = "AI Gesture Studio"
 APP_VERSION = "2.0"
+
+# --------------------------------------------------------------------------
+# PLM: single-owner session lock (see session_lock.py)
+# --------------------------------------------------------------------------
+# Engage/disengage pose = index+middle+ring up, pinky folded ("three fingers").
+# Deliberately NOT a pose the drawing app already uses, and not a resting pose.
+LOCK_ENGAGE_HOLD_SEC: float = 1.5       # hold to unlock
+LOCK_DISENGAGE_HOLD_SEC: float = 1.5    # hold again to lock
+LOCK_OWNER_LOST_SEC: float = 1.5        # owner hand missing this long -> auto-lock
+LOCK_IDLE_TIMEOUT_SEC: float = 30.0     # no real interaction this long -> auto-lock
+# Reach band: a palm smaller than this (normalized wrist->middle-MCP length)
+# is too far from the camera to be the operator. MUST be calibrated per camera/rig.
+LOCK_MIN_ENGAGE_PALM: float = 0.08
+# Engagement only counts inside this central zone (x0, y0, x1, y1), normalized.
+LOCK_ENGAGE_ZONE = (0.10, 0.10, 0.90, 0.95)
+# Continuity matching: owner wrist may move this far per frame + this per second.
+LOCK_MATCH_BASE_RADIUS: float = 0.12
+LOCK_MATCH_SPEED: float = 0.60
+LOCK_MATCH_MAX_RADIUS: float = 0.25     # hard cap: a hand cannot teleport; stops slow track-theft
+LOCK_PALM_RATIO_RANGE = (0.60, 1.60)    # palm-size change allowed vs. owner baseline
+LOCK_HANDEDNESS_PENALTY: float = 0.10   # soft penalty (MediaPipe flips labels on fists)
+
+# --------------------------------------------------------------------------
+# PLM: virtual shopfloor prototype (see shopfloor.py)
+# --------------------------------------------------------------------------
+SHOP_DWELL_SEC: float = 0.7
+SHOP_PINCH_ON: float = 0.30     # thumb-index distance / palm size to start pinch
+SHOP_PINCH_OFF: float = 0.45    # ...to release (hysteresis)
+
+# --------------------------------------------------------------------------
+# PLM: additions (overlap freeze, lock gating, audit, erase gesture)
+# --------------------------------------------------------------------------
+# Another hand whose bounding box comes within this many PALM-SIZES of the
+# owner's box freezes owner input (prevents track theft when hands cross).
+LOCK_OVERLAP_MARGIN: float = 0.35
+
+# Gate the ORIGINAL drawing app (main.py) behind the owner lock.
+REQUIRE_LOCK_FOR_DRAWING: bool = True
+
+# "TWO_FINGERS" (index+middle) or "OPEN_PALM" (original behaviour).
+# Open palm is a natural resting pose, so it is a poor trigger for a
+# destructive action.
+ERASE_GESTURE: str = "TWO_FINGERS"
+
+AUDIT_DIR: str = "logs/audit"

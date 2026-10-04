@@ -18,6 +18,7 @@ Controls:
 from __future__ import annotations
 
 import sys
+import time
 from typing import Optional, Tuple
 
 import cv2
@@ -29,7 +30,8 @@ from ui.splash_screen import SplashScreen
 
 import config
 from drawing_canvas import DrawingCanvas
-from gesture_detector import Gesture, GestureDetector
+from gesture_detector import Gesture, GestureDetector, compute_finger_state
+from session_lock import LockState, OwnerLock
 from hand_tracker import HandTracker, ModelNotFoundError
 from security import CameraSession, CameraUnavailableError, setup_logging
 from utils import FPSCounter, PointSmoother
@@ -100,6 +102,7 @@ def run() -> int:
     dashboard = Dashboard()
     help_overlay = HelpOverlay()
     notification = NotificationManager()
+    owner_lock = OwnerLock()
 
     # Show splash screen
     splash = SplashScreen()
@@ -139,10 +142,19 @@ def run() -> int:
                 confidence = 0.0
                 index_tip: Optional[Tuple[float, float]] = None
 
-                if hands:
-                    # Use the highest-confidence hand as the "active" controller
-                    # so a second, incidental hand in frame doesn't fight it.
-                    primary = max(hands, key=lambda h_: h_.confidence)
+                # Who is allowed to control the app? With the lock enabled only the
+                # engaged OWNER's hand counts; everyone else is ignored.
+                lock_decision = None
+                if config.REQUIRE_LOCK_FOR_DRAWING:
+                    cands = [(hd, compute_finger_state(hd)) for hd in hands]
+                    lock_decision = owner_lock.update(cands, time.perf_counter())
+                    controlling = [lock_decision.owner] if lock_decision.owner is not None else []
+                else:
+                    controlling = hands
+
+                if controlling:
+                    # Highest-confidence among the allowed hands.
+                    primary = max(controlling, key=lambda h_: h_.confidence)
                     confidence = primary.confidence
                     active_gesture, fingers, index_tip = detector.process(primary)
 
@@ -150,6 +162,11 @@ def run() -> int:
                         HandTracker.draw_skeleton(frame, h_result.landmarks_px)
                 else:
                     active_gesture, _, _ = detector.process(None)
+                if hands and not controlling:
+                    for h_result in hands:
+                        HandTracker.draw_skeleton(frame, h_result.landmarks_px)
+                if lock_decision is not None and active_gesture in (Gesture.DRAW, Gesture.ERASE):
+                    owner_lock.note_activity()
 
                 # ---- state transition handling -------------------------------
                 if active_gesture != last_gesture:
@@ -226,6 +243,10 @@ def run() -> int:
 
                 help_overlay.draw(composited)
 
+                if lock_decision is not None:
+                    from plm_main import draw_lock_hud  # shared banner + hold-progress bar
+                    draw_lock_hud(composited, lock_decision, len(hands))
+
                 notification.draw(composited)
 
                 cv2.imshow(config.WINDOW_NAME, composited)
@@ -234,6 +255,9 @@ def run() -> int:
 
                 if key == ord("h"):
                     help_overlay.toggle()
+
+                elif key == ord("x") and lock_decision is not None:
+                    owner_lock.force_lock("Locked manually")
 
                 elif key == config.KEY_QUIT:
                     logger.info("Quit requested by user.")
